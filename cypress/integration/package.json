@@ -1,0 +1,15 @@
+{
+    "name": "Cypress",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+    "test": "echo\"Error: no test specified\"&& exit 1",
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run --record --key 5a0a39c3-cc17-4a33-85af-fd20d45dd78d"
+    },
+    "keywords":[],
+    "author": "",
+    "license": "ICC"
+    
+    }
